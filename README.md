@@ -100,6 +100,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | BSidesNH | Manchester, NH | May 18 2019 | |
 | BSidesSATX | San Antonio, TX | June 08 2019 | |
 | BSidesCLE | Cleveland, OH | June 22 2019 | |
+| [BSidesPGH](https://www.bsidespgh.com/) | Pittsburgh, PA | June 26 2019 | |
 | BSidesChicago | Chicago, IL | July 12 to 13, 2019  | |
 | BSidesSPFD  | Springfield, MO | July 13 2019 | |
 | [BSidesLV](https://www.bsideslv.org/) | Las Vegas, NV | August 6 to 7, 2019  |  BSides Tenth Anniversary Party  |
