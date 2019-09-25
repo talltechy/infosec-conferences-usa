@@ -108,6 +108,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | BSidesMSP   | Minneapolis, MN | September 26 to 28, 2019  | |
 | BSidesAugusta | Augusta, GA | October 05 2019 | |
 | BSidesSacramento | Sacramento, CA | October 05 2019 | |
+| [BSidesNOLA](http://www.securitybsides.com/w/page/134821902/BSidesNOLA2019) | New Orleans, LA | October 26 2019 | |
 | BSidesTampa | Tampa, FL | February 08 2020 | |
 | [BSides Charlotte](https://www.bsidesclt.org/) | Charlotte, NC | September 28 2019 | |
 
