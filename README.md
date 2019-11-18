@@ -94,7 +94,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | BSidesKC | Kansas City, MO | April 26 to 27, 2019  | |
 | BSidesCharm | Towson, Maryland | April 27 to 28, 2019  | |
 | BSidesKnoxville | Knoxville, TN | May 03 2019 | |
-| BSidesATL | Atlanta, GA | May 04 2019 | |
+| BSidesATL | KSU Center, Kennesaw (Atlanta, GA) | March 27 to 28, 2020 | |
 | BSidesRGV | Rio Grande Valley, McAllen, TX | May 11 2019 | |
 | BSidesDetroit | Detroit, MI | May 18 2019 | |
 | BSidesNH | Manchester, NH | May 18 2019 | |
