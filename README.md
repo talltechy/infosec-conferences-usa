@@ -40,7 +40,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [Interop19](https://www.interop.com/) | Las Vegas, NV |
 | [(ISC)² Security Congress](https://congress.isc2.org/events/-isc-security-congress-2019/event-summary-f1be4e92a1b54d92acdb1b8007fe91cf.aspx) | Orlando, FL |
 | [Metricon](http://www.securitymetrics.org/blog/2019/01/28/metricon-x-agenda/) | Jersey City, NJ |
-| [Norcon](http://norcon.info/) | Chico, CA |
+| [Norcon](http://norcon.io/) | Chico, CA |
 | [OSCON](https://conferences.oreilly.com/oscon/oscon-or) | Portland, OR |
 | [Gartner Security & Risk Management Summit](https://www.gartner.com/en/conferences/na/security-risk-management-us) | National Harbor, MD |
 | [RSA Conference USA](https://www.rsaconference.com/usa) | San Francisco, CA |
