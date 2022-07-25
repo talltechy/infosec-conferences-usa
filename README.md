@@ -19,6 +19,7 @@
 | [HTML, CSS, JavaScript, Python, jQuery, SQL, PHP, Bootstrap, XML](https://www.w3schools.com/cert/default.asp) | w3schools | $95 (Each) | |
 | [Varonis Certified Administrator: DatAdvantage](https://customeredu.varonis.com/learn/public/learning_plan/view/11/VaronisCertifiedAdministratorDatAdvantage) | Varonis | $0 | |
 | [Free Code Camp: Learn to code for free](https://www.freecodecamp.org/) | P/S/T | $0 | |
+| [Free resource to learn Programming Languages by top geeks.](https://www.scaler.com/topics/) | Scaler | $0 | |
 
 ## U.S. based IT security conferences
 
